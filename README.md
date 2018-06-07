@@ -9,6 +9,7 @@ La idea de este documento es para hacer un pequeño recopilatorio de informació
 * [Instalación servidor Homebridge](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#instalaci%C3%B3n-de-homebridge)
 * [Dispositivos](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#dispositivos)
 * [Aplicaciones para iOS recomendadas](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#aplicaciones-para-ios-recomendadas)
+* [Enlaces de interés]()
 
 ## Ventajas de usar Homebridge
 
@@ -331,3 +332,9 @@ Con estas aplicacines podrás añadir escenas más personalizadas, así como ges
 
 * [Elgato Eve](https://itunes.apple.com/es/app/elgato-eve/id917695792?mt=8)
 * [Hesperus](https://itunes.apple.com/es/app/hesperus/id969348892?mt=8)
+
+## Enlaces de interés
+
+Aquí dejo algunos enlaces de interés para todo esto de Homebridge.
+
+* [JSONLint](https://jsonlint.com/) - Se trata de un validador de sintaxis para JSON. Permite comprobar si nuestro archivo de configuración tiene algún tipo de error de sintaxis.
