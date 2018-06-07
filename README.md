@@ -117,7 +117,7 @@ Con este plugin podemos hacer compatibles prácticamente todos los accesorios qu
 2.ContactSensor(门磁感应)
 3.MotionSensor(人体感应)
 4.Button(按钮)
-......... *en desarrollo*
+..........en desarrollo
 ```
 
 ```
@@ -126,7 +126,7 @@ $ sudo npm install -g homebridge-aqara
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
 
 ### Xiaomi Alarma (Sistema de alarma)
 [*homebridge-mi-gateway-security*](https://github.com/YinHangCode/homebridge-mi-gateway-security)
@@ -139,7 +139,7 @@ $ sudo npm install -g homebridge-mi-gateway-security
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
 
 ### Xiaomi Radio FM
 [*homebridge-mi-gateway-fm*](https://github.com/YinHangCode/homebridge-mi-gateway-fm)
@@ -153,7 +153,7 @@ $ sudo npm install -g homebridge-mi-gateway-fm
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
 
 ### Sonoff Basic
 [*homebridge-sonoff-basic-espeasy*](https://github.com/seikan/homebridge-sonoff-basic-espeasy)
@@ -166,11 +166,11 @@ $ sudo npm install -g homebridge-mi-gateway-fm
 
 #### Instalando [ESPEasy](https://github.com/letscontrolit/ESPEasy) en Sonoff Basic
 
-*En desarrollo*
+*..........en desarrollo*
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
 
 ### Sonoff S20
 [*homebridge-sonoff-tasmota-http*](https://github.com/ageorgios/homebridge-sonoff-tasmota-http)
@@ -183,11 +183,11 @@ $ sudo npm install -g homebridge-sonoff-tasmota-http
 
 #### Instalando [tasmota](https://github.com/arendst/Sonoff-Tasmota) en Sonoff Basic
 
-*En desarrollo*
+*..........en desarrollo*
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
 
 ### Philips LightBulb
 [*homebridge-mi-philips-light*](https://github.com/YinHangCode/homebridge-mi-philips-light)
@@ -206,7 +206,7 @@ $ sudo npm install -g homebridge-sonoff-tasmota-http
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
 
 ### LG webOS
 [*homebridge-webos3*](https://github.com/merdok/homebridge-webos3)
@@ -219,4 +219,4 @@ $ sudo npm install -g homebridge-webos3
 
 #### Configuración
 
-*En desarrollo*
+*..........en desarrollo*
