@@ -173,7 +173,14 @@ $ sudo npm install -g homebridge-mi-gateway-fm
 
 #### Configuración
 
-*..........en desarrollo*
+```
+"accessories": [{
+    "accessory": "MiGatewayFM",
+    "name": "MiGatewayFM",
+    "ip": "192.168.88.xx",
+    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}]
+```
 
 ### Sonoff Basic
 [*homebridge-sonoff-basic-espeasy*](https://github.com/seikan/homebridge-sonoff-basic-espeasy)
@@ -226,7 +233,35 @@ $ sudo npm install -g homebridge-sonoff-tasmota-http
 
 #### Configuración
 
-*..........en desarrollo*
+```
+"platforms": [{
+    "platform": "MiPhilipsLightPlatform",
+    "deviceCfgs": [{
+        "type": "MiPhilipsSmartBulb",
+        "ip": "192.168.88.xx",
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "lightName": "living room bulb",
+        "lightDisable": false
+    }, {
+        "type": "MiPhilipsTableLamp2",
+        "ip": "192.168.88.xx",
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "mainLightName": "living room table lamp",
+        "secondLightName": "living room table lamp amb",
+        "secondLightDisable": false,
+        "eyecareSwitchName": "living room table lamp eyecare model",
+        "eyecareSwitchDisable": false
+    }, {
+        "type": "MiPhilipsCeilingLamp",
+        "ip": "192.168.88.xx",
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "lightName": "living room ceiling lamp",
+        "lightDisable": false,
+        "updatetimer": false,
+        "interval": 3
+    }]
+}]
+```
 
 ### LG webOS
 [*homebridge-webos3*](https://github.com/merdok/homebridge-webos3)
@@ -239,7 +274,27 @@ $ sudo npm install -g homebridge-webos3
 
 #### Configuración
 
-*..........en desarrollo*
+```
+{
+  "accessories": [
+    {
+      "accessory": "webos3",
+      "name": "My webOS tv",
+      "ip": "192.168.0.40",
+      "mac": "ab:cd:ef:fe:dc:ba",
+      "keyFile": "/home/pi/.homebridge/lgtvKeyFile",
+      "pollingEnabled": true,
+      "appSwitch":[
+         "com.webos.app.tvguide",
+         "youtube.leanback.v4",
+         "com.webos.app.hdmi2",
+         "com.webos.app.externalinput.component"
+      ]
+
+    }
+  ]  
+}
+```
 
 ## Aplicaciones para iOS recomendadas
 
