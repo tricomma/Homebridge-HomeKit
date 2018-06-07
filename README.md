@@ -113,6 +113,14 @@ Iré actualizando esta lista. Actualmente son los dispositivos que tengo y he co
 Con este plugin podemos hacer compatibles prácticamente todos los accesorios que se vinculan con el Gateway.
 
 ```
+1.Gateway(网关)
+2.ContactSensor(门磁感应)
+3.MotionSensor(人体感应)
+4.Button(按钮)
+......... *en desarrollo*
+```
+
+```
 $ sudo npm install -g homebridge-aqara
 ```
 
