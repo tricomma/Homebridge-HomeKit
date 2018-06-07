@@ -105,7 +105,7 @@ Iré actualizando esta lista. Actualmente son los dispositivos que tengo y he co
 | Sonoff        | Basic         |   *homebridge-sonoff-basic-espeasy*  |   *PEND* |
 | Sonoff        | S20           |   *homebridge-sonoff-tasmota-http*  |   *PEND* |
 | Philips       | LightBulb     |   *homebridge-mi-philips-light*  |   *PEND* |
-| LG            | webos3        |   *homebridge-webos3*  |   *PEND* |
+| LG            | webOS3        |   *homebridge-webos3*  |   *PEND* |
 
 ### Xiaomi Gateway (Gateway + todos los sensores)
 [*homebridge-mi-aqara*](https://github.com/YinHangCode/homebridge-mi-aqara)
@@ -194,6 +194,19 @@ Plugin para añadir bombillas Philips.
 
 ```
 $ sudo npm install -g homebridge-sonoff-tasmota-http
+```
+
+#### Configuración
+
+*En desarrollo*
+
+### LG webOS
+[*homebridge-webos3*](https://github.com/merdok/homebridge-webos3)
+
+Controlar nuestra televisión con webOS 3.
+
+```
+$ sudo npm install -g homebridge-webos3
 ```
 
 #### Configuración
