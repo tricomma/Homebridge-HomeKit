@@ -8,7 +8,7 @@ La idea de este documento es para hacer un pequeño recopilatorio de informació
 * [Requisitos](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#requisitos)
 * [Instalación servidor Homebridge](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#instalaci%C3%B3n-de-homebridge)
 * [Dispositivos](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#dispositivos)
-* [Aplicaciones para iOS recomendadas](https://#)
+* [Aplicaciones para iOS recomendadas](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#aplicaciones-para-ios-recomendadas)
 
 ## Ventajas de usar Homebridge
 
