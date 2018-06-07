@@ -101,7 +101,7 @@ Iré actualizando esta lista. Actualmente son los dispositivos que tengo y he co
 | ------------- |:-------------:|:------:|:-----:|
 | Xiaomi        | Gateway + accesorios  | *homebridge-mi-aqara*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-gateway-gateway--todos-los-sensores) |
 | Xiaomi        | Alarma  | *homebridge-mi-gateway-security*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-alarma-sistema-de-alarma) |
-| Xiaomi        | Radio  | *homebridge-mi-gateway-fm*  |   [*PEND*(https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-radio-fm)] |
+| Xiaomi        | Radio  | *homebridge-mi-gateway-fm*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-radio-fm) |
 | Sonoff        | Basic         |   *homebridge-sonoff-basic-espeasy*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#sonoff-basic) |
 | Sonoff        | S20           |   *homebridge-sonoff-tasmota-http*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#sonoff-s20) |
 | Philips       | LightBulb     |   *homebridge-mi-philips-light*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#philips-lightbulb) |
