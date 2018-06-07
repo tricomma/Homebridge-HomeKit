@@ -159,7 +159,17 @@ $ sudo npm install -g homebridge-mi-gateway-security
 
 #### Configuración
 
-*..........en desarrollo*
+```
+"accessories": [{
+    "accessory": "MiGatewaySecurity",
+    "ip": "192.168.88.xx",
+    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "name": "Security",
+    "disable": false,
+    "switchName": "Security Switch",
+    "switchDisable": true
+}]
+```
 
 ### Xiaomi Radio FM
 [*homebridge-mi-gateway-fm*](https://github.com/YinHangCode/homebridge-mi-gateway-fm)
@@ -197,7 +207,16 @@ $ sudo npm install -g homebridge-mi-gateway-fm
 
 #### Configuración
 
-*..........en desarrollo*
+```
+"accessories": [
+    {
+      "accessory": "SonoffBasicESPEasy",
+      "name": "Living Room Switch",
+      "type": "switch",
+      "ip": "IP_ADDRESS_OF_THE_SONOFF_BASIC"
+    }
+  ]
+```
 
 ### Sonoff S20
 [*homebridge-sonoff-tasmota-http*](https://github.com/ageorgios/homebridge-sonoff-tasmota-http)
@@ -214,7 +233,13 @@ $ sudo npm install -g homebridge-sonoff-tasmota-http
 
 #### Configuración
 
-*..........en desarrollo*
+```
+{
+  "accessory": "SonoffTasmotaHTTP",
+  "name": "Sonoff",
+  "hostname": "The hostname of the Sonoff device"
+}
+```
 
 ### Philips LightBulb
 [*homebridge-mi-philips-light*](https://github.com/YinHangCode/homebridge-mi-philips-light)
