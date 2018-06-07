@@ -118,7 +118,26 @@ Con este plugin podemos hacer compatibles prácticamente todos los accesorios qu
 2.ContactSensor(门磁感应)
 3.MotionSensor(人体感应)
 4.Button(按钮)
-..........en desarrollo
+5.TemperatureAndHumiditySensor(温度湿度传感器)
+6.SingleSwitch(单按钮墙壁开关)
+7.DuplexSwitch(双按钮墙壁开关)
+8.SingleSwitchLN(单按钮墙壁开关零火版)
+9.DuplexSwitchLN(双按钮墙壁开关零火版)
+10.SingleButton86(86型无线单按钮开关)
+11.DuplexButton86(86型无线双按钮开关)
+12.PlugBase(插座)
+13.PlugBase86(86型墙壁插座)
+14.MagicSquare(魔方)
+15.SmokeDetector(烟雾报警器)
+16.NatgasDetector(天然气报警器)
+17.ElectricCurtain(电动窗帘)
+18.ContactSensor2(门磁感应第二代)
+19.MotionSensor2(人体感应第二代)
+20.Button2(按钮第二代)
+21.TemperatureAndHumiditySensor2(温度湿度传感器第二代)
+22.WaterDetector(水浸传感器)
+23.UnlockedSensor(门锁)
+24.AcPartner(空调伴侣)
 ```
 
 ```
@@ -212,7 +231,7 @@ $ sudo npm install -g homebridge-sonoff-tasmota-http
 ### LG webOS
 [*homebridge-webos3*](https://github.com/merdok/homebridge-webos3)
 
-Controlar nuestra televisión con webOS 3.
+Controlar nuestra televisión con webOS3.
 
 ```
 $ sudo npm install -g homebridge-webos3
@@ -224,7 +243,7 @@ $ sudo npm install -g homebridge-webos3
 
 ## Aplicaciones para iOS recomendadas
 
-Con estas aplicacines podrás añadir escenas más personalizadas, así como gestionar dispositivos nada compatibles con HomeKit.
+Con estas aplicacines podrás añadir escenas más personalizadas, así como gestionar dispositivos que por su valor, no son compatibles con HomeKit.
 
-* [bla]
-* [bla]
+* [Elgato Eve](https://itunes.apple.com/es/app/elgato-eve/id917695792?mt=8)
+* [Hesperus](https://itunes.apple.com/es/app/hesperus/id969348892?mt=8)
