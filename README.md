@@ -4,10 +4,10 @@ La idea de este documento es para hacer un pequeño recopilatorio de informació
 
 ## Índice
 
-* [Ventajas de usar Homebridge](http://www.dropwizard.io/1.0.2/docs/)
-* [Requisitos](https://maven.apache.org/)
-* [Instalación servidor Homebridge](https://rometools.github.io/rome/)
-* [Dispositivos] (*En desarrollo*)
+* [Ventajas de usar Homebridge](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#ventajas-de-usar-homebridge)
+* [Requisitos](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#requisitos)
+* [Instalación servidor Homebridge](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#instalaci%C3%B3n-de-homebridge)
+* [Dispositivos](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#dispositivos)
 
 ## Ventajas de usar Homebridge
 
@@ -29,8 +29,8 @@ Entre las principales ventajas encontramos:
 
 | Servidor      | Guía           |
 | ------------- | -------------- |
-| RaspberryPi   | *JMRamirez*    |
-| QNAP          | *JMRamirez*    |
+| [RaspberryPi](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#instalaci%C3%B3n-en-raspberrypi)   | *JMRamirez*    |
+| [QNAP](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#instalaci%C3%B3n-en-qnap)          | *JMRamirez*    |
 
 ### Instalación en RaspberryPi
 
@@ -99,13 +99,13 @@ Iré actualizando esta lista. Actualmente son los dispositivos que tengo y he co
 
 | Marca         | Modelo        | Plugin | Guía  |
 | ------------- |:-------------:|:------:|:-----:|
-| Xiaomi        | Gateway + accesorios  | *homebridge-mi-aqara*  |   *PEND* |
-| Xiaomi        | Alarma  | *homebridge-mi-gateway-security*  |   *PEND* |
-| Xiaomi        | Radio  | *homebridge-mi-gateway-fm*  |   *PEND* |
-| Sonoff        | Basic         |   *homebridge-sonoff-basic-espeasy*  |   *PEND* |
-| Sonoff        | S20           |   *homebridge-sonoff-tasmota-http*  |   *PEND* |
-| Philips       | LightBulb     |   *homebridge-mi-philips-light*  |   *PEND* |
-| LG            | webOS3        |   *homebridge-webos3*  |   *PEND* |
+| Xiaomi        | Gateway + accesorios  | *homebridge-mi-aqara*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-gateway-gateway--todos-los-sensores) |
+| Xiaomi        | Alarma  | *homebridge-mi-gateway-security*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-alarma-sistema-de-alarma) |
+| Xiaomi        | Radio  | *homebridge-mi-gateway-fm*  |   [*PEND*(https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#xiaomi-radio-fm)] |
+| Sonoff        | Basic         |   *homebridge-sonoff-basic-espeasy*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#sonoff-basic) |
+| Sonoff        | S20           |   *homebridge-sonoff-tasmota-http*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#sonoff-s20) |
+| Philips       | LightBulb     |   *homebridge-mi-philips-light*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#philips-lightbulb) |
+| LG            | webOS3        |   *homebridge-webos3*  |   [*PEND*](https://github.com/tricomma/Homebridge-HomeKit/blob/master/README.md#lg-webos) |
 
 ### Xiaomi Gateway (Gateway + todos los sensores)
 [*homebridge-mi-aqara*](https://github.com/YinHangCode/homebridge-mi-aqara)
