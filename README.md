@@ -146,6 +146,10 @@ $ sudo npm install -g homebridge-aqara
 
 #### Configuración
 
+Para poder configurar nuestro Gateway con Homebridge, tenemos que conseguir su dirección Mac y su Token. Para ello, seguiremos los siguientes pasos:
+
+1. Abrimos nuestra aplicación de MiHome (Xiaomi). Seleccionamos el Gateway...
+
 *..........en desarrollo*
 
 ### Xiaomi Alarma (Sistema de alarma)
