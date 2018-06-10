@@ -74,7 +74,7 @@ $ sudo npm install -g --unsafe-perm homebridge
 
 Listo! Ya tenemos homebridge instalado en nuestro equipo. Ahora es el turno de instalar los plugins compatibles con los accesorios que tengas.
 
-El archivo de configuración lo encontramos en la siguiente ruta `/home/tu_usuario`.
+El archivo de configuración lo encontramos en la siguiente ruta `/home/tu_usuario/.homebridge/config.json`.
 
 Cuando vayamos instalando los plugins para añadir distintos dispositivos, estos se almacenan en la siguiente ruta `/usr/local/lib/node_modules`. Recomiendo desinstalar los que no estemos utilizando.
 
